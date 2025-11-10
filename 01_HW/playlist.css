@@ -5,8 +5,11 @@ body {
   margin: 30px;
 }
 
-h1 {
+h3 {
   color: #333;
+  margin: 10px auto;
+  width: fit-content;
+  padding: 5px 10px;
 }
 
 table {
@@ -30,4 +33,16 @@ th {
 }
 .vid-cell {
   width: 80%;
+}
+
+.titles {
+  color: white;
+  background-color: #0078d7;
+}
+
+.colored-row{
+    color: darkblue;
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: large;
 }
